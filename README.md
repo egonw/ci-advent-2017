@@ -11,7 +11,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 ### Compounds
 
 * [3-methyl butanal](https://tools.wmflabs.org/scholia/chemical/Q409554)
-* vanillin
+* [vanillin](https://tools.wmflabs.org/scholia/chemical/Q33495)
 * pyrazines
 
 ## Day 2: [Christmas tree aroma](http://www.compoundchem.com/2017advent/2017advent2/)
@@ -21,6 +21,6 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* bornyl acetate
+* [bornyl acetate](https://tools.wmflabs.org/scholia/chemical/Q780165)
 * alpha-pinene
 * beta-pinene
