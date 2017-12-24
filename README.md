@@ -34,3 +34,20 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 * gingerol
 * zingerone
+
+## Day 4: [Candy cane chemistry](http://www.compoundchem.com/2017advent/2017advent4/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/4-%E2%80%93-Candy-Canes.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* water
+* [sucrose](https://tools.wmflabs.org/scholia/chemical/Q4027534)
+* corn starch
+* menthol
+
+### Proteins
+
+* [PTRM8](https://tools.wmflabs.org/scholia/protein/Q7671495)
+
