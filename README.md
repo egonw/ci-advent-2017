@@ -24,3 +24,13 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 * [bornyl acetate](https://tools.wmflabs.org/scholia/chemical/Q780165)
 * alpha-pinene
 * beta-pinene
+
+## Day 3: [Gingerbread chemistry](http://www.compoundchem.com/2017advent/2017advent3/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/3-%E2%80%93-Ginger-Gingerbread.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* gingerol
+* zingerone
