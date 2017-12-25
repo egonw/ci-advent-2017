@@ -51,3 +51,12 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 * [PTRM8](https://tools.wmflabs.org/scholia/protein/Q7671495)
 
+## Day 5: [Poinsettia indicators](http://www.compoundchem.com/2017advent/2017advent5/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/5-%E2%80%93-Poinsettia-Plant-Indicator.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* [anthocyanin](https://tools.wmflabs.org/scholia/chemical/Q262547)
+
