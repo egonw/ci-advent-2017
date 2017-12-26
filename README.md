@@ -60,3 +60,16 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 * [anthocyanin](https://tools.wmflabs.org/scholia/chemical/Q262547)
 
+## Day 6: [Silver baubles](http://www.compoundchem.com/2017advent/2017advent6/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/6-%E2%80%93-Silver-Christmas-Baubles.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* [silver nitrate](https://tools.wmflabs.org/scholia/chemical/Q207442)
+* [glucose](https://tools.wmflabs.org/scholia/chemical/Q37525)
+* [ammonia](https://tools.wmflabs.org/scholia/chemical/Q4087)
+* [silver ion](https://tools.wmflabs.org/scholia/chemical/Q27104658)
+
+
