@@ -32,8 +32,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* gingerol
-* zingerone
+* [gingerol](https://tools.wmflabs.org/scholia/chemical/Q421081)
+* [zingerone](https://tools.wmflabs.org/scholia/chemical/Q1064625)
 
 ## Day 4: [Candy cane chemistry](http://www.compoundchem.com/2017advent/2017advent4/)
 
@@ -42,7 +42,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* water
+* [water](https://tools.wmflabs.org/scholia/chemical/Q283)
 * [sucrose](https://tools.wmflabs.org/scholia/chemical/Q4027534)
 * corn starch
 * menthol
@@ -71,5 +71,26 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 * [glucose](https://tools.wmflabs.org/scholia/chemical/Q37525)
 * [ammonia](https://tools.wmflabs.org/scholia/chemical/Q4087)
 * [silver ion](https://tools.wmflabs.org/scholia/chemical/Q27104658)
+
+## Day 7: [Fake snow](http://www.compoundchem.com/2017advent/2017advent7/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/7-Fake-Snow.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* [water](https://tools.wmflabs.org/scholia/chemical/Q283)
+* [sodium polyacrylate](https://tools.wmflabs.org/scholia/topic/Q737169)
+
+## Day 8: [Mulled wine chemistry](http://www.compoundchem.com/2017advent/2017advent8/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/8-%E2%80%93-Mulled-Wine.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* [eugenol](https://tools.wmflabs.org/scholia/chemical/Q423357)
+* [cinnemaldehyde](https://tools.wmflabs.org/scholia/chemical/Q204036)
+
 
 
