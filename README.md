@@ -100,7 +100,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 ### Compounds
 
 * [thyramine](https://tools.wmflabs.org/scholia/chemical/Q165930)
-* phoratoxins
+* [phoratoxin](https://tools.wmflabs.org/scholia/topic/Q46995757)
 * viscotoxin
 
 
