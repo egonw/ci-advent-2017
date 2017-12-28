@@ -198,41 +198,54 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 * copper
 * tin
 
-## Day 20: []()
+## Day 20: [Frankincense aroma](http://www.compoundchem.com/2017advent/2017advent20/)
 
-<img src=""
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/20-%E2%80%93-Frankincense-Chemistry.png"
      width="150px" height="150px" />
 
 ### Compounds
 
-## Day 21: []()
+* olibanic acid
 
-<img src=""
+## Day 21: [Turkey chemistry](http://www.compoundchem.com/2017advent/2017advent21/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/21-%E2%80%93-Christmas-Turkey.png"
      width="150px" height="150px" />
 
 ### Compounds
 
-## Day 22: []()
+* furan
+* fyronones
+* pyrazines
+* thiophenes
 
-<img src=""
+## Day 22: [Cranberry chemistry](http://www.compoundchem.com/2017advent/2017advent22/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/22-%E2%80%93-Cranberry-Chemistry.png"
      width="150px" height="150px" />
 
 ### Compounds
 
-## Day 23: []()
+* quercetin
 
-<img src=""
+## Day 23: [The smell of winter fires](http://www.compoundchem.com/2017advent/2017advent23/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/23-%E2%80%93-Fire.png"
      width="150px" height="150px" />
 
 ### Compounds
 
-## Day 24: []()
+* syringol
+* isoeugenol
+* guaiacol
+* 4-methylguaiacol
 
-<img src=""
+## Day 24: [The chemical history of tinsel](http://www.compoundchem.com/2017advent/2017advent24/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/24-%E2%80%93-Tinsel.png"
      width="150px" height="150px" />
 
 ### Compounds
 
-
-
-
+* silver
+* polyvinyl chloride
