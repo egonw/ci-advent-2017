@@ -103,6 +103,136 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 * [phoratoxin](https://tools.wmflabs.org/scholia/topic/Q46995757)
 * [viscotoxin](https://tools.wmflabs.org/scholia/topic/Q7935675)
 
+## Day 10: [Christmas lights](http://www.compoundchem.com/2017advent/2017advent10/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/10-%E2%80%93-Christmas-Lights.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* gallium arsenide phosphide
+* gallium phosphide
+* gallium nitride
+* aluminium gallium indium phosphide
+
+## Day 11: [The relighting candle trick](http://www.compoundchem.com/2017advent/2017advent11/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/11-Relighting-Candle-Trick.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* wax
+
+## Day 12: [Snow globe chemistry](http://www.compoundchem.com/2017advent/2017advent12/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/12-%E2%80%93-Snow-Globes.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* benzoic acid
+
+## Day 13: [Orange peel flamethrowers](http://www.compoundchem.com/2017advent/2017advent13/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/13-%E2%80%93-Orange-Peel-Flamethrower.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* D-limonene
+
+## Day 14: [Presents and tape]()
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/14-%E2%80%93-Presents-Tape.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+## Day 15: [Holly & Ivy](http://www.compoundchem.com/2017advent/2017advent15/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/15-%E2%80%93-Holly-Ivy.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* theobromine
+* falcarinol
+
+## Day 16: [Christmas Crackers](http://www.compoundchem.com/2017advent/2017advent16/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/16-%E2%80%93-Christmas-Crackers2.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* silver fulminate
+
+## Day 17: [Brussels sprouts](http://www.compoundchem.com/2017advent/2017advent17/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/17-%E2%80%93-Brussels-Sprouts.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* sinigrin
+* progoitrin
+
+## Day 18: [Flaming Christmas puddings](http://www.compoundchem.com/2017advent/2017advent18/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/18-%E2%80%93-Flaming-Christmas-Pudding.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* ethanol
+
+## Day 19: [The composition of Christmas bells](http://www.compoundchem.com/2017advent/2017advent19/)
+
+<img src="https://github.com/egonw/ci-advent-2017/raw/master/19-%E2%80%93-Bell-Metal-Compositions.png"
+     width="150px" height="150px" />
+
+### Compounds
+
+* bronze
+* copper
+* tin
+
+## Day 20: []()
+
+<img src=""
+     width="150px" height="150px" />
+
+### Compounds
+
+## Day 21: []()
+
+<img src=""
+     width="150px" height="150px" />
+
+### Compounds
+
+## Day 22: []()
+
+<img src=""
+     width="150px" height="150px" />
+
+### Compounds
+
+## Day 23: []()
+
+<img src=""
+     width="150px" height="150px" />
+
+### Compounds
+
+## Day 24: []()
+
+<img src=""
+     width="150px" height="150px" />
+
+### Compounds
+
 
 
 
