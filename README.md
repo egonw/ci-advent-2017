@@ -101,7 +101,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 * [thyramine](https://tools.wmflabs.org/scholia/chemical/Q165930)
 * [phoratoxin](https://tools.wmflabs.org/scholia/topic/Q46995757)
-* viscotoxin
+* [viscotoxin](https://tools.wmflabs.org/scholia/topic/Q7935675)
 
 
 
