@@ -226,7 +226,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* quercetin
+* [quercetin](https://tools.wmflabs.org/scholia/chemical/Q409478)
 
 ## Day 23: [The smell of winter fires](http://www.compoundchem.com/2017advent/2017advent23/)
 
@@ -235,9 +235,9 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* syringol
-* isoeugenol
-* guaiacol
+* [syringol](https://tools.wmflabs.org/scholia/chemical/Q421420)
+* [isoeugenol](https://tools.wmflabs.org/scholia/chemical/Q420043)
+* [guaiacol](https://tools.wmflabs.org/scholia/chemical/Q412403)
 * 4-methylguaiacol
 
 ## Day 24: [The chemical history of tinsel](http://www.compoundchem.com/2017advent/2017advent24/)
@@ -247,5 +247,5 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* silver
-* polyvinyl chloride
+* [silver](https://tools.wmflabs.org/scholia/topic/Q1090)
+* [polyvinyl chloride](https://tools.wmflabs.org/scholia/topic/Q146368)
