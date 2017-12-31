@@ -140,7 +140,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* D-limonene
+* [D-limonene](https://tools.wmflabs.org/scholia/chemical/Q27888324)
 
 ## Day 14: [Presents and tape]()
 
