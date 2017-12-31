@@ -22,8 +22,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 ### Compounds
 
 * [bornyl acetate](https://tools.wmflabs.org/scholia/chemical/Q780165)
-* alpha-pinene
-* beta-pinene
+* [alpha-pinene](https://tools.wmflabs.org/scholia/Q27104380)
+* [beta-pinene](https://tools.wmflabs.org/scholia/Q300928)
 
 ## Day 3: [Gingerbread chemistry](http://www.compoundchem.com/2017advent/2017advent3/)
 
@@ -44,7 +44,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 * [water](https://tools.wmflabs.org/scholia/chemical/Q283)
 * [sucrose](https://tools.wmflabs.org/scholia/chemical/Q4027534)
-* corn starch
+* [corn starch](https://tools.wmflabs.org/scholia/topic/Q3393961)
 * menthol
 
 ### Proteins
@@ -110,9 +110,9 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* gallium arsenide phosphide
-* gallium phosphide
-* gallium nitride
+* [gallium arsenide phosphide](https://tools.wmflabs.org/scholia/chemical/Q3381504)
+* [gallium phosphide](https://tools.wmflabs.org/scholia/chemical/Q421416)
+* [gallium nitride](https://tools.wmflabs.org/scholia/chemical/Q411713)
 * aluminium gallium indium phosphide
 
 ## Day 11: [The relighting candle trick](http://www.compoundchem.com/2017advent/2017advent11/)
@@ -131,7 +131,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* benzoic acid
+* [benzoic acid](https://tools.wmflabs.org/scholia/chemical/Q191700)
 
 ## Day 13: [Orange peel flamethrowers](http://www.compoundchem.com/2017advent/2017advent13/)
 
@@ -147,8 +147,6 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 <img src="https://github.com/egonw/ci-advent-2017/raw/master/14-%E2%80%93-Presents-Tape.png"
      width="150px" height="150px" />
 
-### Compounds
-
 ## Day 15: [Holly & Ivy](http://www.compoundchem.com/2017advent/2017advent15/)
 
 <img src="https://github.com/egonw/ci-advent-2017/raw/master/15-%E2%80%93-Holly-Ivy.png"
@@ -156,8 +154,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* theobromine
-* falcarinol
+* [theobromine](https://tools.wmflabs.org/scholia/chemical/Q206844)
+* [falcarinol](https://tools.wmflabs.org/scholia/chemical/Q413192)
 
 ## Day 16: [Christmas Crackers](http://www.compoundchem.com/2017advent/2017advent16/)
 
@@ -185,7 +183,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* ethanol
+* [ethanol](https://tools.wmflabs.org/scholia/chemical/Q153)
 
 ## Day 19: [The composition of Christmas bells](http://www.compoundchem.com/2017advent/2017advent19/)
 
