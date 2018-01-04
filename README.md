@@ -173,7 +173,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* sinigrin
+* [sinigrin](https://tools.wmflabs.org/scholia/chemical/Q423248)
 * progoitrin
 
 ## Day 18: [Flaming Christmas puddings](http://www.compoundchem.com/2017advent/2017advent18/)
