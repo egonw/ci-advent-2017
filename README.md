@@ -113,7 +113,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 * [gallium arsenide phosphide](https://tools.wmflabs.org/scholia/chemical/Q3381504)
 * [gallium phosphide](https://tools.wmflabs.org/scholia/chemical/Q421416)
 * [gallium nitride](https://tools.wmflabs.org/scholia/chemical/Q411713)
-* aluminium gallium indium phosphide
+* [aluminium gallium indium phosphide](https://tools.wmflabs.org/scholia/chemical/Q4737385)
 
 ## Day 11: [The relighting candle trick](http://www.compoundchem.com/2017advent/2017advent11/)
 
@@ -122,7 +122,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* wax
+* [wax](https://tools.wmflabs.org/scholia/chemical/Q124695)
 
 ## Day 12: [Snow globe chemistry](http://www.compoundchem.com/2017advent/2017advent12/)
 
@@ -164,7 +164,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* silver fulminate
+* [silver fulminate](https://tools.wmflabs.org/scholia/chemical/Q420019)
 
 ## Day 17: [Brussels sprouts](http://www.compoundchem.com/2017advent/2017advent17/)
 
@@ -174,7 +174,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 ### Compounds
 
 * [sinigrin](https://tools.wmflabs.org/scholia/chemical/Q423248)
-* progoitrin
+* [progoitrin](https://tools.wmflabs.org/scholia/chemical/Q3406927)
 
 ## Day 18: [Flaming Christmas puddings](http://www.compoundchem.com/2017advent/2017advent18/)
 
@@ -192,9 +192,9 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* bronze
-* copper
-* tin
+* [bronze](https://tools.wmflabs.org/scholia/chemical/Q34095)
+* [copper](https://tools.wmflabs.org/scholia/chemical/Q753)
+* [tin](https://tools.wmflabs.org/scholia/chemical/Q1096)
 
 ## Day 20: [Frankincense aroma](http://www.compoundchem.com/2017advent/2017advent20/)
 
@@ -236,7 +236,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 * [syringol](https://tools.wmflabs.org/scholia/chemical/Q421420)
 * [isoeugenol](https://tools.wmflabs.org/scholia/chemical/Q420043)
 * [guaiacol](https://tools.wmflabs.org/scholia/chemical/Q412403)
-* 4-methylguaiacol
+* [4-methylguaiacol](https://tools.wmflabs.org/scholia/chemical/Q403037)
 
 ## Day 24: [The chemical history of tinsel](http://www.compoundchem.com/2017advent/2017advent24/)
 
