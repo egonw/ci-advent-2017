@@ -12,7 +12,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 * [3-methyl butanal](https://tools.wmflabs.org/scholia/chemical/Q409554)
 * [vanillin](https://tools.wmflabs.org/scholia/chemical/Q33495)
-* pyrazines
+* [pyrazines](https://tools.wmflabs.org/scholia/chemical-class/Q47463389)
 
 ## Day 2: [Christmas tree aroma](http://www.compoundchem.com/2017advent/2017advent2/)
 
