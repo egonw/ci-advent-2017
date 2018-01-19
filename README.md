@@ -203,7 +203,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* olibanic acid (e.g. [(-)-trans-olibanic acid](https://tools.wmflabs.org/scholia/chemical/Q47008468))
+* [olibanic acid](https://tools.wmflabs.org/scholia/chemical-class/Q47008475) (e.g. [(-)-trans-olibanic acid](https://tools.wmflabs.org/scholia/chemical/Q47008468))
 
 ## Day 21: [Turkey chemistry](http://www.compoundchem.com/2017advent/2017advent21/)
 
