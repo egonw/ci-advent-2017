@@ -212,10 +212,10 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* furan
+* [furans](https://tools.wmflabs.org/scholia/chemical-class/Q47009129)
 * fyronones
-* pyrazines
-* thiophenes
+* [pyrazines](https://tools.wmflabs.org/scholia/chemical-class/Q47463389)
+* [thiophenes](https://tools.wmflabs.org/scholia/chemical-class/Q47465258)
 
 ## Day 22: [Cranberry chemistry](http://www.compoundchem.com/2017advent/2017advent22/)
 
