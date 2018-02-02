@@ -45,7 +45,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 * [water](https://tools.wmflabs.org/scholia/chemical/Q283)
 * [sucrose](https://tools.wmflabs.org/scholia/chemical/Q4027534)
 * [corn starch](https://tools.wmflabs.org/scholia/topic/Q3393961)
-* menthol
+* [menthol](https://tools.wmflabs.org/scholia/chemical/Q407418)
 
 ### Proteins
 
