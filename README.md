@@ -3,6 +3,8 @@
 This repository is an archive of the [Compound Interest Christmas Advent 2017](http://www.compoundchem.com/2017advent/)
 infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/Q44476967).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1164788.svg)](https://doi.org/10.5281/zenodo.1164788)
+
 ## Day 1: [The smell of chocolate](http://www.compoundchem.com/2017advent/2017advent1/)
 
 <img src="https://github.com/egonw/ci-advent-2017/raw/master/1-%E2%80%93-Smell-of-Chocolate2.png"
