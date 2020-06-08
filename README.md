@@ -1,7 +1,7 @@
 # "Compound Interest Christmas Advent 2017" Archive
 
 This repository is an archive of the [Compound Interest Christmas Advent 2017](http://www.compoundchem.com/2017advent/)
-infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/Q44476967).
+infographics series by [Andy Brunning](https://scholia.toolforge.org/author/Q44476967).
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1164788.svg)](https://doi.org/10.5281/zenodo.1164788)
 
@@ -12,9 +12,9 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [3-methyl butanal](https://tools.wmflabs.org/scholia/chemical/Q409554)
-* [vanillin](https://tools.wmflabs.org/scholia/chemical/Q33495)
-* [pyrazines](https://tools.wmflabs.org/scholia/chemical-class/Q47463389)
+* [3-methyl butanal](https://scholia.toolforge.org/chemical/Q409554)
+* [vanillin](https://scholia.toolforge.org/chemical/Q33495)
+* [pyrazines](https://scholia.toolforge.org/chemical-class/Q47463389)
 
 ## Day 2: [Christmas tree aroma](http://www.compoundchem.com/2017advent/2017advent2/)
 
@@ -23,9 +23,9 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [bornyl acetate](https://tools.wmflabs.org/scholia/chemical/Q780165)
-* [alpha-pinene](https://tools.wmflabs.org/scholia/Q27104380)
-* [beta-pinene](https://tools.wmflabs.org/scholia/Q300928)
+* [bornyl acetate](https://scholia.toolforge.org/chemical/Q780165)
+* [alpha-pinene](https://scholia.toolforge.org/Q27104380)
+* [beta-pinene](https://scholia.toolforge.org/Q300928)
 
 ## Day 3: [Gingerbread chemistry](http://www.compoundchem.com/2017advent/2017advent3/)
 
@@ -34,8 +34,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [gingerol](https://tools.wmflabs.org/scholia/chemical/Q421081)
-* [zingerone](https://tools.wmflabs.org/scholia/chemical/Q1064625)
+* [gingerol](https://scholia.toolforge.org/chemical/Q421081)
+* [zingerone](https://scholia.toolforge.org/chemical/Q1064625)
 
 ## Day 4: [Candy cane chemistry](http://www.compoundchem.com/2017advent/2017advent4/)
 
@@ -44,14 +44,14 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [water](https://tools.wmflabs.org/scholia/chemical/Q283)
-* [sucrose](https://tools.wmflabs.org/scholia/chemical/Q4027534)
-* [corn starch](https://tools.wmflabs.org/scholia/topic/Q3393961)
-* [menthol](https://tools.wmflabs.org/scholia/chemical/Q407418)
+* [water](https://scholia.toolforge.org/chemical/Q283)
+* [sucrose](https://scholia.toolforge.org/chemical/Q4027534)
+* [corn starch](https://scholia.toolforge.org/topic/Q3393961)
+* [menthol](https://scholia.toolforge.org/chemical/Q407418)
 
 ### Proteins
 
-* [PTRM8](https://tools.wmflabs.org/scholia/protein/Q7671495)
+* [PTRM8](https://scholia.toolforge.org/protein/Q7671495)
 
 ## Day 5: [Poinsettia indicators](http://www.compoundchem.com/2017advent/2017advent5/)
 
@@ -60,7 +60,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [anthocyanin](https://tools.wmflabs.org/scholia/chemical/Q262547)
+* [anthocyanin](https://scholia.toolforge.org/chemical/Q262547)
 
 ## Day 6: [Silver baubles](http://www.compoundchem.com/2017advent/2017advent6/)
 
@@ -69,10 +69,10 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [silver nitrate](https://tools.wmflabs.org/scholia/chemical/Q207442)
-* [glucose](https://tools.wmflabs.org/scholia/chemical/Q37525)
-* [ammonia](https://tools.wmflabs.org/scholia/chemical/Q4087)
-* [silver ion](https://tools.wmflabs.org/scholia/chemical/Q27104658)
+* [silver nitrate](https://scholia.toolforge.org/chemical/Q207442)
+* [glucose](https://scholia.toolforge.org/chemical/Q37525)
+* [ammonia](https://scholia.toolforge.org/chemical/Q4087)
+* [silver ion](https://scholia.toolforge.org/chemical/Q27104658)
 
 ## Day 7: [Fake snow](http://www.compoundchem.com/2017advent/2017advent7/)
 
@@ -81,8 +81,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [water](https://tools.wmflabs.org/scholia/chemical/Q283)
-* [sodium polyacrylate](https://tools.wmflabs.org/scholia/topic/Q737169)
+* [water](https://scholia.toolforge.org/chemical/Q283)
+* [sodium polyacrylate](https://scholia.toolforge.org/topic/Q737169)
 
 ## Day 8: [Mulled wine chemistry](http://www.compoundchem.com/2017advent/2017advent8/)
 
@@ -91,8 +91,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [eugenol](https://tools.wmflabs.org/scholia/chemical/Q423357)
-* [cinnemaldehyde](https://tools.wmflabs.org/scholia/chemical/Q204036)
+* [eugenol](https://scholia.toolforge.org/chemical/Q423357)
+* [cinnemaldehyde](https://scholia.toolforge.org/chemical/Q204036)
 
 ## Day 9: [Poisonous Mistletoe](http://www.compoundchem.com/2017advent/2017advent9/)
 
@@ -101,9 +101,9 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [thyramine](https://tools.wmflabs.org/scholia/chemical/Q165930)
-* [phoratoxin](https://tools.wmflabs.org/scholia/topic/Q46995757)
-* [viscotoxin](https://tools.wmflabs.org/scholia/topic/Q7935675)
+* [thyramine](https://scholia.toolforge.org/chemical/Q165930)
+* [phoratoxin](https://scholia.toolforge.org/topic/Q46995757)
+* [viscotoxin](https://scholia.toolforge.org/topic/Q7935675)
 
 ## Day 10: [Christmas lights](http://www.compoundchem.com/2017advent/2017advent10/)
 
@@ -112,10 +112,10 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [gallium arsenide phosphide](https://tools.wmflabs.org/scholia/chemical/Q3381504)
-* [gallium phosphide](https://tools.wmflabs.org/scholia/chemical/Q421416)
-* [gallium nitride](https://tools.wmflabs.org/scholia/chemical/Q411713)
-* [aluminium gallium indium phosphide](https://tools.wmflabs.org/scholia/chemical/Q4737385)
+* [gallium arsenide phosphide](https://scholia.toolforge.org/chemical/Q3381504)
+* [gallium phosphide](https://scholia.toolforge.org/chemical/Q421416)
+* [gallium nitride](https://scholia.toolforge.org/chemical/Q411713)
+* [aluminium gallium indium phosphide](https://scholia.toolforge.org/chemical/Q4737385)
 
 ## Day 11: [The relighting candle trick](http://www.compoundchem.com/2017advent/2017advent11/)
 
@@ -124,7 +124,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [wax](https://tools.wmflabs.org/scholia/chemical/Q124695)
+* [wax](https://scholia.toolforge.org/chemical/Q124695)
 
 ## Day 12: [Snow globe chemistry](http://www.compoundchem.com/2017advent/2017advent12/)
 
@@ -133,7 +133,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [benzoic acid](https://tools.wmflabs.org/scholia/chemical/Q191700)
+* [benzoic acid](https://scholia.toolforge.org/chemical/Q191700)
 
 ## Day 13: [Orange peel flamethrowers](http://www.compoundchem.com/2017advent/2017advent13/)
 
@@ -142,7 +142,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [D-limonene](https://tools.wmflabs.org/scholia/chemical/Q27888324)
+* [D-limonene](https://scholia.toolforge.org/chemical/Q27888324)
 
 ## Day 14: [Presents and tape]()
 
@@ -156,8 +156,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [theobromine](https://tools.wmflabs.org/scholia/chemical/Q206844)
-* [falcarinol](https://tools.wmflabs.org/scholia/chemical/Q413192)
+* [theobromine](https://scholia.toolforge.org/chemical/Q206844)
+* [falcarinol](https://scholia.toolforge.org/chemical/Q413192)
 
 ## Day 16: [Christmas Crackers](http://www.compoundchem.com/2017advent/2017advent16/)
 
@@ -166,7 +166,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [silver fulminate](https://tools.wmflabs.org/scholia/chemical/Q420019)
+* [silver fulminate](https://scholia.toolforge.org/chemical/Q420019)
 
 ## Day 17: [Brussels sprouts](http://www.compoundchem.com/2017advent/2017advent17/)
 
@@ -175,8 +175,8 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [sinigrin](https://tools.wmflabs.org/scholia/chemical/Q423248)
-* [progoitrin](https://tools.wmflabs.org/scholia/chemical/Q3406927)
+* [sinigrin](https://scholia.toolforge.org/chemical/Q423248)
+* [progoitrin](https://scholia.toolforge.org/chemical/Q3406927)
 
 ## Day 18: [Flaming Christmas puddings](http://www.compoundchem.com/2017advent/2017advent18/)
 
@@ -185,7 +185,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [ethanol](https://tools.wmflabs.org/scholia/chemical/Q153)
+* [ethanol](https://scholia.toolforge.org/chemical/Q153)
 
 ## Day 19: [The composition of Christmas bells](http://www.compoundchem.com/2017advent/2017advent19/)
 
@@ -194,9 +194,9 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [bronze](https://tools.wmflabs.org/scholia/chemical/Q34095)
-* [copper](https://tools.wmflabs.org/scholia/chemical/Q753)
-* [tin](https://tools.wmflabs.org/scholia/chemical/Q1096)
+* [bronze](https://scholia.toolforge.org/chemical/Q34095)
+* [copper](https://scholia.toolforge.org/chemical/Q753)
+* [tin](https://scholia.toolforge.org/chemical/Q1096)
 
 ## Day 20: [Frankincense aroma](http://www.compoundchem.com/2017advent/2017advent20/)
 
@@ -205,7 +205,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [olibanic acid](https://tools.wmflabs.org/scholia/chemical-class/Q47008475) (e.g. [(-)-trans-olibanic acid](https://tools.wmflabs.org/scholia/chemical/Q47008468))
+* [olibanic acid](https://scholia.toolforge.org/chemical-class/Q47008475) (e.g. [(-)-trans-olibanic acid](https://scholia.toolforge.org/chemical/Q47008468))
 
 ## Day 21: [Turkey chemistry](http://www.compoundchem.com/2017advent/2017advent21/)
 
@@ -214,10 +214,10 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [furans](https://tools.wmflabs.org/scholia/chemical-class/Q47009129)
+* [furans](https://scholia.toolforge.org/chemical-class/Q47009129)
 * fyronones
-* [pyrazines](https://tools.wmflabs.org/scholia/chemical-class/Q47463389)
-* [thiophenes](https://tools.wmflabs.org/scholia/chemical-class/Q47465258)
+* [pyrazines](https://scholia.toolforge.org/chemical-class/Q47463389)
+* [thiophenes](https://scholia.toolforge.org/chemical-class/Q47465258)
 
 ## Day 22: [Cranberry chemistry](http://www.compoundchem.com/2017advent/2017advent22/)
 
@@ -226,7 +226,7 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [quercetin](https://tools.wmflabs.org/scholia/chemical/Q409478)
+* [quercetin](https://scholia.toolforge.org/chemical/Q409478)
 
 ## Day 23: [The smell of winter fires](http://www.compoundchem.com/2017advent/2017advent23/)
 
@@ -235,10 +235,10 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [syringol](https://tools.wmflabs.org/scholia/chemical/Q421420)
-* [isoeugenol](https://tools.wmflabs.org/scholia/chemical/Q420043)
-* [guaiacol](https://tools.wmflabs.org/scholia/chemical/Q412403)
-* [4-methylguaiacol](https://tools.wmflabs.org/scholia/chemical/Q403037)
+* [syringol](https://scholia.toolforge.org/chemical/Q421420)
+* [isoeugenol](https://scholia.toolforge.org/chemical/Q420043)
+* [guaiacol](https://scholia.toolforge.org/chemical/Q412403)
+* [4-methylguaiacol](https://scholia.toolforge.org/chemical/Q403037)
 
 ## Day 24: [The chemical history of tinsel](http://www.compoundchem.com/2017advent/2017advent24/)
 
@@ -247,5 +247,5 @@ infographics series by [Andy Brunning](https://tools.wmflabs.org/scholia/author/
 
 ### Compounds
 
-* [silver](https://tools.wmflabs.org/scholia/topic/Q1090)
-* [polyvinyl chloride](https://tools.wmflabs.org/scholia/topic/Q146368)
+* [silver](https://scholia.toolforge.org/topic/Q1090)
+* [polyvinyl chloride](https://scholia.toolforge.org/topic/Q146368)
